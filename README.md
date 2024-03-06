@@ -7,7 +7,9 @@
 <br>I'm actively seeking internship opportunities as a Data Scientist, Data Analyst, or Quantitative Analyst 💻, where I can apply my skills and contribute to real-world projects.
 
 <br>In addition to my core interests, I'm expanding my knowledge into the realm of finance 📈, with a focus on Risk Management ⚠️ and Arbitrage Theory 🔍. 
-<br>I'm eager to enhance my proficiency in quantitative finance and explore the exciting challenges and opportunities it presents. <br>Let's connect and collaborate on innovative solutions! 🚀
+<br>I'm eager to enhance my proficiency in quantitative finance and explore the exciting challenges and opportunities it presents. 
+
+<br>Let's connect and collaborate! 🚀
 
 
 ## 🌐 Socials:
