@@ -1,13 +1,14 @@
-:#👋 Hi, I'm Shridhar!
-<br><br>
+#👋 Hi, I'm Shridhar!
+
+<br>
 
 I’m a Data Science graduate from Rutgers University 🎓 with a strong background in computer science and engineering. My passion lies at the intersection of artificial intelligence, machine learning, and cloud technologies, where I enjoy transforming data into actionable insights and building scalable solutions.
 
-<br><br>
+<br>
 
 💡 I have worked on projects spanning data analysis, computer vision, natural language processing, quantitative modeling, and cloud computing — always with a focus on solving complex, real-world challenges using data-driven approaches.
 
-<br><br>
+<br>
 
 🚀 I’m actively seeking full-time opportunities as a Data Scientist, Data Analyst, Quantitative Analyst, or Quantitative Researcher, where I can apply my skills in machine learning, AI, and cloud platforms to create impactful solutions. Let’s connect and collaborate!
 
