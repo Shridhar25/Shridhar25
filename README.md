@@ -1,13 +1,12 @@
+:
 # 👋 Hi, I'm Shridhar!
-I am a Graduate Data Science student  at Rutgers University 🎓 set to graduate in May 2025. 
-<br>My passion lies at the intersection of data science 📊 and quant finance 💼. 
+I’m a Data Science graduate from Rutgers University 🎓 with a strong background in computer science and engineering. My passion lies at the intersection of artificial intelligence, machine learning, and cloud technologies, where I enjoy transforming data into actionable insights and building scalable solutions.
+<br>
+💡 I have worked on projects spanning data analysis, computer vision, natural language processing, quantitative modeling, and cloud computing — always with a focus on solving complex, real-world challenges using data-driven approaches.
+<br>
+🚀 I’m actively seeking full-time opportunities as a Data Scientist, Data Analyst, Quantitative Analyst, or Quantitative Researcher, where I can apply my skills in machine learning, AI, and cloud platforms to create impactful solutions. Let’s connect and collaborate!
 
-<br>Previously, I've engaged in projects encompassing Data Analysis, Computer Vision, and Natural Language Processing.<br>Currently, I'm diving into a fascinating Sentiment Analysis project 📈.
 
-<br>I'm actively seeking internship opportunities as a Data Scientist, Data Analyst, or Quantitative Analyst 💻, where I can apply my skills and contribute to real-world projects.
-
-<br>In addition to my core interests, I'm expanding my knowledge into the realm of finance 📈, with a focus on Risk Management ⚠️ and Arbitrage Theory 🔍. 
-<br>I'm eager to enhance my proficiency in quantitative finance and explore the exciting challenges and opportunities it presents. 
 
 
 ## 🌐 Socials:
