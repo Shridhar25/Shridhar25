@@ -1,4 +1,4 @@
-#👋 Hi, I'm Shridhar!
+:#👋 Hi, I'm Shridhar!
 <br><br>
 
 I’m a Data Science graduate from Rutgers University 🎓 with a strong background in computer science and engineering. My passion lies at the intersection of artificial intelligence, machine learning, and cloud technologies, where I enjoy transforming data into actionable insights and building scalable solutions.
